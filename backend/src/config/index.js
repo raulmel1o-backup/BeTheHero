@@ -1,5 +1,5 @@
-const dotnev = require('dotenv');
-dotnev.config({ path: 'src/config/.env' });
+const dotenv = require('dotenv');
+dotenv.config({ path: 'src/config/.env' });
 
 module.exports = {
     port: process.env.PORT || 3333,
