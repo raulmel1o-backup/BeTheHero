@@ -1,0 +1,5 @@
+const app = require('../src/app');
+
+app.listen(3333);
+
+module.exports = app;
