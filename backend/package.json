@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "engines": {
-    "node": "13.12.0"
+    "node": "13.x"
   },
   "description": "",
   "main": "index.js",
