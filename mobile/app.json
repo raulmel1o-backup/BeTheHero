@@ -23,8 +23,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.raulmel1o.bethehero",
+      "versionCode": 1
     }
   }
 }
